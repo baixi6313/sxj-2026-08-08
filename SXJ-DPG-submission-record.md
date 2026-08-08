@@ -4,7 +4,7 @@
 > Solution: **SXJ (事现鉴)**
 > Submitted by: Light-Cone Operations Office (光锥运维部)
 > Date: 2026-08-09
-> Status: **PENDING SUBMIT** (form complete, awaiting final click)
+> Status: **✅ SUBMITTED — UNDER REVIEW (GID0094044)**
 
 ---
 
@@ -13,6 +13,7 @@
 | Field | Value |
 |-------|-------|
 | DPG Application ID | 14641 |
+| **DPG ID (Registry)** | **GID0094044** |
 | Solution Name | SXJ (事现鉴) |
 | Category | Software / Open Source Code |
 | Website | https://hygzz.top |
@@ -66,19 +67,29 @@ All form sections reviewed from screenshots:
 10. ✅ 9A Data Privacy & Security (No PII, 6 mechanisms)
 11. ✅ 9B Inappropriate & Illegal Content (No UGC, 5-layer handling)
 12. ✅ 9C Protection from Harassment (CoC, reporting, enforcement)
-13. ⏳ Scale of Solution (content provided, to be pasted)
+13. ✅ Scale of Solution (pasted & saved)
+
+## Submission Timestamps
+
+| Event | UTC | UTC+8 |
+|-------|-----|-------|
+| Application Created | 2026-08-08 22:28 | 2026-08-09 06:28 |
+| **Application Submitted** | **2026-08-08 23:42** | **2026-08-09 19:42** |
+| Status | **UNDER REVIEW** | 审核中 |
 
 ## Next Step
 
-**User action required:** Paste Scale of Solution content → Save → Submit Application.
+**✅ SUBMISSION COMPLETE.** Awaiting DPGA review team evaluation.
 
-After submission, update this record with:
-- Submission timestamp
-- DPG ticket/reference number
-- Review timeline
-- Outcome (approved / more info requested)
+Possible outcomes:
+- **APPROVED** → SXJ enters DPG Registry as a Digital Public Good
+- **MORE INFO REQUESTED** → DPGA asks clarifying questions (respond via portal)
+- **NOT APPROVED** → Feedback provided; can reapply after addressing gaps
+
+Monitor at: https://app.digitalpublicgoods.net/form/#content_area (login as BAI XI)
 
 ---
 
 *This record is maintained in the sxj-2026-08-08 repository as the canonical submission log.*
 *Generated: 2026-08-09T07:36+08:00*
+*Updated: 2026-08-09T07:42+08:00 — ✅ SUBMITTED*
