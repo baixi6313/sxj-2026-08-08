@@ -75,7 +75,20 @@ All form sections reviewed from screenshots:
 |-------|-----|-------|
 | Application Created | 2026-08-08 22:28 | 2026-08-09 06:28 |
 | **Application Submitted** | **2026-08-08 23:42** | **2026-08-09 19:42** |
+| **DPGA Confirmation Email Received** | **2026-08-08 23:43** | **2026-08-09 19:43** |
 | Status | **UNDER REVIEW** | 审核中 |
+
+## DPGA Official Confirmation
+
+**Email received at 19:43 (UTC+8) from "DPGA Admin":**
+- Subject: "Your DPG Application for SXJ (事现鉴) (GID0094044) Has Been Successfully Submitted for Review"
+- Recipient confirmed: BAI XI (583272294@qq.com)
+- Review timeline: **4–8 weeks** (may extend due to backlog)
+- Tracking: Dashboard at app.digitalpublicgoods.net + link in email
+
+**Expected outcome window:**
+- Earliest: 2026-09-06 (4 weeks)
+- Latest: 2026-10-07 (8 weeks)
 
 ## Next Step
 
