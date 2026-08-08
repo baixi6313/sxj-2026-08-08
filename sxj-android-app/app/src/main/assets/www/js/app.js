@@ -18,7 +18,7 @@
   TYPES.forEach(function (t) { TYPE_LABEL[t.key] = t.label; });
   STATUSES.forEach(function (s) { STATUS_MAP[s.key] = s; });
 
-  var CURRENT_VERSION = '1.0.2';
+  var CURRENT_VERSION = '1.1.2';
   var VERSION_URL = 'https://raw.githubusercontent.com/baixi6313/sxj-android-app/main/version.json';
   var state = { tab: 'events', filter: 'all', events: [] };
   var view = document.getElementById('view');
