@@ -44,8 +44,33 @@ DPG 提名必须在官网表单提交（需要你的账号，AI 无法代填）�
 若希望 guided nomination（有人引导），发邮件给 **hello@digitalpublicgoods.net**，
 附上本清单与 `SXJ-DPG-nomination-en.md`，抄送 **583272294@qq.com**。
 
-## 四、当前状态
+## 四、最终确认审查（2026-08-09 07:36）
 
-✅ 9/9 指标全绿 · ✅ 两仓合规文件已落地 · ⏳ 仅剩官网表单点击提交。
+光锥运维部逐项审查了全部 13 张表单截图，确认：
+
+| 项目 | 状态 | 审查依据 |
+|------|------|----------|
+| General Information（名称/类别/仓库/联系方式） | ✅ 完整 | 截图1 |
+| 1. SDG Relevance（SDG 1/10/16/17） | ✅ 完整 | 截图2 |
+| 2. Open Licensing（MIT + Apache-2.0） | ✅ 完整 | 截图3 |
+| 3. Clear Ownership（China + 再分发权） | ✅ 完整 | 截图4 |
+| 4. Platform Independence（MAIP + 三客户端） | ✅ 完整 | 截图5 |
+| 5. Documentation（README + CONTRIBUTING） | ✅ 完整 | 截图6 |
+| 6. Data Extraction（API/CSV/JSON/HTML + 证据） | ✅ 完整 | 截图7 |
+| 7. Privacy & Laws（PRIVACY.md 引用） | ✅ 完整 | 截图8 |
+| 8. Standards & Best Practices（10条清单） | ✅ 完整 | 截图9 |
+| 9A. Data Privacy & Security（No PII + 6机制） | ✅ 完整 | 截图10 |
+| 9B. Inappropriate & Illegal Content（不收集+5层处理） | ✅ 完整 | 截图11 |
+| 9C. Protection from Harassment（CoC + 举报流程） | ✅ 完整 | 截图12 |
+| **Scale of Solution** | ⚠️ **待填** | 截图13（文本框空） |
+
+**待办：**
+1. 填写 Scale of Solution（已提供填写内容）
+2. 确保 9B / 9C / Scale of Solution 左侧打勾 ✅
+3. 点 Submit Application 提交
+
+## 五、当前状态
+
+✅ 9/9 指标全绿 · ✅ 两仓合规文件已落地 · ✅ 表单 13 项中 12 项已填完 · ⏳ 剩 Scale of Solution + 提交。
 
 *本清单与 `SXJ-DPG-nomination-en.md`、`SXJ-DPG-assessment-en.md` 为同一套提名材料，已推送至 sxj-2026-08-08 仓库根目录。*
