@@ -1,7 +1,7 @@
-# SXJ (事现鉴) — DPG Nomination Draft
+# SXJ (事现鉴) — DPG Nomination (Ready to Submit)
 
 > Prepared by the Light-Cone Operations Office (光锥运维部) · 2026-08-09
-> Draft for founder review. Submit to the DPG Registry only after `LICENSE` + governance docs are added (see `SXJ-DPG-assessment-en.md` §4).
+> **Status: READY — all 9 DPG indicators now green.** Compliance pack (`LICENSE` + 7 governance/docs) pushed to both repos on 2026-08-09.
 > Contact: **583272294@qq.com**
 
 This document holds the content needed to complete the DPG eligibility self-assessment / Registry nomination. Fields mirror the DPGA submission form.
@@ -18,9 +18,9 @@ This document holds the content needed to complete the DPG eligibility self-asse
 
 ## B. Source & License
 
-- **Primary repository:** https://github.com/baixi6313/sxj-2026-08-08
-- **App repository:** https://github.com/baixi6313/sxj-android-app
-- **License:** _(to be set — MIT recommended; OSI-approved)_ — **BLOCKER until added**
+- **Primary repository:** https://github.com/baixi6313/sxj-2026-08-08 — **licensed under MIT**
+- **App repository:** https://github.com/baixi6313/sxj-android-app — **licensed under Apache-2.0**
+- **License:** ✅ OSI-approved open license now present in **both** repos (`LICENSE` at root)
 - **Open data:** public verification ledger at `events.html` (entries `evt_009`, `evt_010` and growing)
 
 ## C. Documentation
@@ -43,35 +43,43 @@ This document holds the content needed to complete the DPG eligibility self-asse
 - [x] **Neutral catalyst:** root→spec design dissolves once adopted; no single interest can capture it.
 - [x] **Minimal / non-PII data:** verification payloads are public facts + density ρ, not personal profiles.
 - [x] **Jurisdiction-aware:** `j` axis respects each polity's own verification layer.
-- [ ] **Formal PRIVACY.md / SECURITY.md / GOVERNANCE.md / CODE_OF_CONDUCT.md** — _to be added_
+- [x] **Formal PRIVACY.md / SECURITY.md / GOVERNANCE.md / CODE_OF_CONDUCT.md** — ✅ added to both repos
 
 ## F. Eligibility Self-Assessment (per DPG indicator)
 
 | Indicator | Meets? | Note |
 |-----------|--------|------|
-| 1 SDG Relevance | Yes | SDG 1/10/16/17 |
-| 2 Open Licensing | **No** | License file pending |
-| 3 Clear Ownership | Partial | NOTICE pending |
-| 4 Platform Independence | Yes | Open spec + multi-platform |
-| 5 Documentation | Partial | Root README/CONTRIBUTING pending |
-| 6 Non-PII Data | Yes | By design; policy pending |
-| 7 Privacy & Law | Partial | PRIVACY.md pending |
-| 8 Open Standards | Yes | MAIP open spec |
-| 9A Data Privacy/Security | Partial | SECURITY.md pending |
-| 9B Illegal Content | Partial | Written as governance pending |
-| 9C Anti-Harassment | Partial | CoC pending |
+| 1 SDG Relevance | ✅ Yes | SDG 1/10/16/17 |
+| 2 Open Licensing | ✅ **Yes** | MIT (primary) + Apache-2.0 (app) — both OSI-approved, at repo root |
+| 3 Clear Ownership | ✅ Yes | `NOTICE` present in both repos |
+| 4 Platform Independence | ✅ Yes | Open spec + multi-platform |
+| 5 Documentation | ✅ Yes | Root `README.md` + `CONTRIBUTING.md` present |
+| 6 Non-PII Data | ✅ Yes | By design; `PRIVACY.md` stated |
+| 7 Privacy & Law | ✅ Yes | `PRIVACY.md` + GDPR alignment stated |
+| 8 Open Standards | ✅ Yes | MAIP open spec |
+| 9A Data Privacy/Security | ✅ Yes | `SECURITY.md` present |
+| 9B Illegal Content | ✅ Yes | `GOVERNANCE.md` written as content policy |
+| 9C Anti-Harassment | ✅ Yes | `CODE_OF_CONDUCT.md` present |
 
-**Overall: eligible once Indicator 2 (license) + the §4 documentation pack are in place.**
+**Overall: ✅ ALL 9 INDICATORS GREEN — eligible for DPG nomination.**
 
 ---
 
 ## G. Pre-Submission Checklist
 
-- [ ] Apply `LICENSE` (MIT/Apache-2.0) to both repos
-- [ ] Add `NOTICE`, `README.md`, `CONTRIBUTING.md`
-- [ ] Add `PRIVACY.md`, `SECURITY.md`, `GOVERNANCE.md`, `CODE_OF_CONDUCT.md`
-- [ ] Re-run the DPG eligibility tool → all indicators green
-- [ ] Submit via digitalpublicgoods.net/eligibility → Registry nomination
+- [x] Apply `LICENSE` — MIT to `sxj-2026-08-08`, Apache-2.0 to `sxj-android-app`
+- [x] Add `NOTICE`, `README.md`, `CONTRIBUTING.md` to both repos
+- [x] Add `PRIVACY.md`, `SECURITY.md`, `GOVERNANCE.md`, `CODE_OF_CONDUCT.md` to both repos
+- [x] Re-run the DPG eligibility tool → **all 9 indicators green**
+- [ ] **Submit via https://digitalpublicgoods.net/eligibility/ → Registry nomination**
 - [ ] Notify DPGA secretariat (hello@digitalpublicgoods.net) if a guided nomination is preferred
 
-*Draft only. Do not submit until the blocker and documentation gaps are closed.*
+### How to submit (final step — done by founder)
+1. Open https://digitalpublicgoods.net/eligibility/ and sign in (or create an account).
+2. Start a new nomination; set **Solution name = "SXJ (事现鉴)"**.
+3. Paste the fields from §A–§F above (they mirror the DPGA form).
+4. Repositories: `baixi6313/sxj-2026-08-08` (MIT) and `baixi6313/sxj-android-app` (Apache-2.0).
+5. For each DPG indicator, select **Yes** and attach the corresponding repo file as evidence.
+6. Submit. The DPGA team reviews; on pass, SXJ is listed in the DPG Registry.
+
+*All blockers closed. This document is now the submission brief — only the web-form click remains.*
